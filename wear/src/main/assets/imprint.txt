@@ -1,0 +1,27 @@
+Nadruk
+
+Informacje zgodnie z § 5 DDG
+
+#globalAddress1
+#globalAddress2
+#globalAddress3
+
+Reprezentowany przez:
+#globalAddress1
+
+Kontakt:
+E-Mail: #globalEmailAddress
+
+Wyłączenie odpowiedzialności:
+
+Odpowiedzialność za treść
+
+Zawartość aplikacji została stworzona z najwyższą starannością. Nie możemy jednak ponosić odpowiedzialności za dokładność, kompletność i aktualność treści. Jako dostawca usług jesteśmy odpowiedzialni za własne treści na tych stronach zgodnie z § 7 (1) DDG (niemiecka ustawa o telemediach) i ogólnymi przepisami prawa. Zgodnie z §§ 8 do 10 DDG, jako usługodawca nie jesteśmy jednak zobowiązani do monitorowania przesyłanych lub przechowywanych informacji osób trzecich ani do badania okoliczności wskazujących na nielegalną działalność. Nie ma to wpływu na obowiązek usunięcia lub zablokowania korzystania z informacji zgodnie z ogólnymi przepisami prawa. Odpowiedzialność w tym zakresie jest jednak możliwa dopiero od momentu powzięcia informacji o konkretnym naruszeniu. Gdy tylko dowiemy się o takich naruszeniach, natychmiast usuniemy te treści.
+
+Prawa autorskie
+
+Treści i dzieła stworzone przez operatora w tej aplikacji podlegają niemieckiemu prawu autorskiemu. Powielanie, przetwarzanie, rozpowszechnianie i wszelkiego rodzaju wykorzystywanie poza granicami prawa autorskiego wymaga pisemnej zgody odpowiedniego autora lub twórcy. O ile treści w tej aplikacji nie zostały stworzone przez operatora, prawa autorskie osób trzecich są przestrzegane. Jeśli mimo to dowiesz się o naruszeniu praw autorskich, poinformuj nas o tym. Jeśli dowiemy się o jakichkolwiek naruszeniach, niezwłocznie usuniemy takie treści.
+
+Ochrona danych
+
+Zastosowanie ma polityka prywatności z regulaminu świadczenia usług.

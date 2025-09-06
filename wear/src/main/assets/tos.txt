@@ -1,0 +1,83 @@
+Regulamin świadczenia usług
+
+1. Definicje
+
+•	Aplikacja: aplikacja mobilna na smartwatche z systemem Wear OS i WatchOS, udostępniająca możliwość zamawiania jedzenia z restauracji: #restaurantAddress1, #restaurantAddress2, #restaurantAddress3.
+•	Dostawca: #globalAddress1, #globalAddress2, #globalAddress3.
+•	Klient: osoba fizyczna, która korzysta z Aplikacji w celu zamówienia jedzenia.
+•	Restauracja: podmiot, który udostępnia ofertę gastronomiczną za pośrednictwem Aplikacji.
+•	Usługa: udostępnianie Aplikacji Klientowi w celu zamawiania jedzenia z restauracji.
+
+2. Zamówienie
+
+1.	Klient składa zamówienie poprzez:
+•	Wypełnienie danych kontaktowych (imię i nazwisko, numer telefonu, adres e-mail, ulica i numer, kod pocztowy, miasto, instrukcje).
+•	Wybór preferowanego sposobu dostawy.
+•	Dodanie wybranych produktów do koszyka.
+•	Zaakceptowanie Regulaminu.
+•	Potwierdzenie zamówienia odpowiednim przyciskiem.
+
+2.	Potwierdzenie zamówienia zawierające dane Klienta, numer zamówienia, czas realizacji, informacje o płatności, listę zamówionych produktów, cenę (w tym opłaty) i wybrany sposób dostawy zostanie wysłane na adres e-mail Klienta w formie niezaszyfrowanej.
+
+3.	Restauracja może anulować zamówienie, m.in. w przypadku:
+•	Braku dostępności produktu.
+•	Błędnych danych kontaktowych Klienta.
+•	Wątpliwości co do autentyczności zamówienia.
+•	Siły wyższej.
+
+3. Ceny i płatności
+
+1.	Wszystkie ceny podane są w złotych polskich i zawierają podatek VAT.
+2.	Dostępne metody płatności są określane przez restaurację.
+3.  W przypadku korzystania z kryptowaluty jako metody płatności, opłaty za gaz nie są wliczane do całkowitej kwoty.
+
+4. Polityka prywatności
+
+Dane osobowe
+1.	Administratorem danych osobowych jest #globalAddress1, #globalAddress2, #globalAddress3.
+2.	Dane osobowe Klienta są przetwarzane wyłącznie w celu realizacji zamówienia, tj. do:
+•	Przygotowania zamówienia
+•	Wysłania potwierdzenia zamówienia na adres e-mail Klienta
+•	Dostarczenia zamówienia do Klienta
+3.	Dane osobowe Klienta nie są udostępniane nikomu innemu poza restauracją, z której Klient składa zamówienie. Restauracja otrzymuje dane osobowe Klienta w celu realizacji zamówienia.
+4.	Dane osobowe Klienta są przechowywane przez okres niezbędny do realizacji zamówienia. Kopia potwierdzenia zamówienia z adresem e-mail Klienta może być przechowywana w skrzynce "Wysłane" Dostawcy.
+5.	Klient ma prawo do:
+•	Dostępu do swoich danych osobowych
+•	Sprostowania swoich danych osobowych
+•	Usunięcia swoich danych osobowych
+•	Ograniczenia przetwarzania swoich danych osobowych
+•	Wniesienia sprzeciwu wobec przetwarzania swoich danych osobowych
+•	Przenoszenia swoich danych osobowych
+6.	W przypadku pytań lub wątpliwości dotyczących przetwarzania danych osobowych Klient może skontaktować się z Dostawcą pod adresem: #globalEmailAddress
+7.  Polityki prywatności stron trzecich
+•	Aplikacje na smartwatche są zintegrowane z narzędziami stron trzecich, które posiadają własne polityki prywatności. Korzystając z aplikacji na smartwatche, akceptujesz również ich polityki prywatności. Polityki prywatności są następujące:
+•	Płatności online kartą kredytową podlegają polityce prywatności operatora płatności Stripe: https://stripe.com/privacy
+•	Sprawdzanie transakcji kryptowalutowych podlega polityce prywatności Alchemy: https://legal.alchemy.com/#contract-sblyf8eub
+•	Pobieranie kursów wymiany walut podlega polityce prywatności ExchangeRate-API: https://www.exchangerate-api.com/terms
+
+5. Odpowiedzialność
+1.	Dostawca nie ponosi odpowiedzialności za treść oferty i informacji o restauracjach prezentowanych w Aplikacji.
+2.	Restauracja odpowiada za jakość i bezpieczeństwo oferowanych produktów.
+3.	W przypadku alergii lub nietolerancji pokarmowych Klient zobowiązany jest do skontaktowania się z restauracją w celu uzyskania informacji o potencjalnych alergenach.
+
+6. Umowa
+1.	Złożenie zamówienia przez Klienta jest równoznaczne z zawarciem umowy kupna-sprzedaży z restauracją.
+2.	Treść umowy określają:
+•	Opis produktu.
+•	Warunki określone w karcie produktu.
+•	Informacje widoczne na stronie zamówienia w momencie jego składania.
+3.	Ze względu na charakter produktów, Klientowi nie przysługuje prawo do odstąpienia od umowy.
+4.	Anulowanie zamówienia przez Klienta jest możliwe tylko w przypadku, gdy restauracja wyraźnie dopuszcza taką możliwość.
+
+7. Postanowienia końcowe
+1.	Umowa o świadczenie Usługi zostaje zawarta na czas określony, tj. od momentu złożenia zamówienia do momentu jego realizacji.
+2.	Sądem właściwym dla rozstrzygania sporów z tytułu niniejszej umowy jest sąd właściwy dla siedziby Dostawcy.
+3.	Regulamin jest dostępny w Aplikacji oraz na stronie internetowej Dostawcy.
+
+Dodatkowe informacje:
+•	Aplikacja może wykorzystywać mikrofon do wprowadzania danych głosowych za pomocą funkcji Google Speech to Text. Dane te są wykorzystywane do wypełniania formularza zamówienia i są przetwarzane zgodnie z polityką prywatności Google (https://policies.google.com/privacy?hl=pl).
+•	Aplikacja na Wear OS może pobierać zdjęcia potraw z chmury, zastępując nimi zdjęcia domyślne.
+•	Obie wersje Aplikacji oferują funkcję importowania danych kontaktowych z książki telefonicznej na podstawie numeru telefonu.
+•	Klient, zamawiając produkty alkoholowe, potwierdza, że posiada wymagany minimalny wiek.
+•	Dostępność dostawy jest ograniczona do kodów pocztowych i godzin określonych przez restaurację.
+•	W przypadku pytań lub wątpliwości prosimy o kontakt z Dostawcą.

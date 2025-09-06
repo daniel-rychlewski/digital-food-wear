@@ -1,0 +1,83 @@
+Terms of Service
+
+1. Definitions
+
+•	App: mobile app for Wear OS and watchOS smartwatches that can be used to order food in restaurants: #restaurantAddress1, #restaurantAddress2, #restaurantAddress3.
+•	Provider: #globalAddress1, #globalAddress2, #globalAddress3.
+•	Customer: the person using the app to order food.
+•	Restaurant: the establishment that provides the food offer via the application.
+•	Service: the provision of the Application to the Customer for the purpose of ordering food from a Restaurant.
+
+2. Order
+
+1.  The Customer places an order in the following way:
+•	Filling in contact details (name, phone number, e-mail address, street and house number, postal code, city, instructions).
+•	Selection of the desired delivery mode.
+•	Adding the products to the shopping cart.
+•	Acceptance of the terms of service.
+•	Confirmation of the order with the corresponding button.
+
+2.  An order confirmation containing the Customer's details, the order number, the delivery time, the payment information, the list of products ordered, the price (including charges) and the selected delivery mode is sent in unencrypted form to the Customer's e-mail address.
+
+3.  The Restaurant may cancel an order in the following cases, among others:
+•	Unavailability of the product.
+•	Incorrect contact details of the Customer.
+•	Doubts about the authenticity of the order.
+•	Force majeure.
+
+3. Prices and payment
+
+1.  All prices are in PLN and include VAT.
+2.  The available payment methods are determined by the Restaurant.
+3.  For using cryptocurrency as the payment option, gas fees are excluded from the total.
+
+4. Privacy policy
+
+Personal data
+1.	The administrator of personal data is #globalAddress1, #globalAddress2, #globalAddress3.
+2.	The Customer's personal data will only be processed for the purpose of order processing, i.e. for:
+•	Preparation of the order
+•	Sending an order confirmation to the Customer's e-mail address
+•	Delivery of the order to the Customer
+3.	The Customer's personal data will only be passed on to the Restaurant where the Customer has placed the order. The Restaurant receives the Customer's personal data for the purpose of processing the order.
+4.	The Customer's personal data will be kept for the period necessary to process the order. A copy of the order confirmation with the Customer's e-mail address may be stored in the supplier's "Sent" folder.
+5.	The Customer has the right to:
+•	Access to his personal data
+•	Correction of his personal data
+•	Deletion of his personal data
+•	Restriction of the processing of their personal data
+•	Object to the processing of their personal data
+•	Transfer of his or her personal data
+6.	If you have any questions or concerns regarding the processing of your personal data, please contact the Provider: #globalEmailAddress
+7.	Third-party privacy policies
+•	The smartwatch apps are integrated with third-party tools, which have their own privacy policies. By using the smartwatch apps, you agree with their privacy policies as well. The privacy policies are as follows:
+•	Online payment via credit card is subject to the privacy policy of the payment processor Stripe: https://stripe.com/privacy
+•	Checking for crypto transactions is subject to the privacy policy of Alchemy: https://legal.alchemy.com/#contract-sblyf8eub
+•	Fetching currency exchange rates is subject to the privacy policy of ExchangeRate-API: https://www.exchangerate-api.com/terms
+
+5. Liability
+1.	The Provider is not responsible for the content of the offer and the information about the restaurants presented in the application.
+2.	The Restaurant is responsible for the quality and safety of the products offered.
+3.	In the event of food allergies or intolerances, the Customer is obliged to inform the Restaurant about possible allergens.
+
+6. Contract
+1.	A purchase contract with the Restaurant is concluded with the Customer's order.
+2.	The content of the contract is determined by:
+•	The product description.
+•	The terms and conditions listed in the product data sheet.
+•	The information visible on the order page when placing the order.
+3.	In view of the perishable nature of the offer, the Customer has no right of withdrawal.
+4.	Cancellation of the order by the Customer is only possible if the Restaurant expressly permits this.
+
+7. Final provisions
+1.	The contract for the provision of the Service is concluded for a definite period of time, i.e. from the time of the order until its execution.
+2.	The place of jurisdiction for disputes arising from this contract is the court competent for the registered office of the Provider.
+3.	The terms of service are available in the app and on the Provider's website.
+
+Additional information:
+•	The app can use a microphone for voice input with Google Speech to Text. This data is used to fill out the order form and is processed in accordance with Google's privacy policy (https://policies.google.com/privacy?hl=en).
+•	The app on Wear OS can download photos of dishes from the cloud, replacing the standard photos.
+•	Both versions of the app offer a function for importing contact information from the phone book based on the phone number.
+•	When ordering alcohol products, the Customer confirms that they are of the required minimum age.
+•	Delivery availability is limited to the zip codes and times specified by the Restaurant.
+•	If you have any questions or concerns, please contact the supplier.
