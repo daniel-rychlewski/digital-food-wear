@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="internetErrorHeading">Tidak ada internet</string>
+    <string name="internetErrorDescription">Hubungkan perangkat Anda ke internet untuk menggunakan aplikasi.</string>
+    <string name="loginErrorHeading">Login gagal</string>
+    <string name="loginErrorDescription">Login gagal. Silakan periksa koneksi internet Anda atau hubungi penerbit aplikasi.</string>
+    <string name="restaurantClosedHeading">Restoran tutup</string>
+    <string name="restaurantClosedDaysOfWeek">Senin,Selasa,Rabu,Kamis,Jumat,Sabtu,Minggu</string>
+    <string name="restaurantClosedTextForClosed">tertutup</string>
+    <string name="restaurantClosedOpeningTimes">Jam buka:</string>
+    <string name="updateErrorHeading">Diperlukan pembaruan</string>
+    <string name="updateErrorDescription">Versi aplikasi Anda sudah kedaluwarsa. Silakan instal pembaruan dari App Store.</string>
+    <string name="inactiveScreenHeading">Aplikasi tidak aktif</string>
+    <string name="inactiveScreenDescription">Segera tersedia!</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="internetErrorHeading">Brak internetu</string>
+    <string name="internetErrorDescription">Połącz urządzenie z internetem, aby korzystać z aplikacji.</string>
+    <string name="loginErrorHeading">Logowanie nie powiodło się</string>
+    <string name="loginErrorDescription">Logowanie nie powiodło się. Sprawdź połączenie internetowe lub skontaktuj się z wydawcą aplikacji.</string>
+    <string name="restaurantClosedHeading">Lokal zamknięty</string>
+    <string name="restaurantClosedDaysOfWeek">poniedziałek,wtorek,środa,czwartek,piątek,sobota,niedziela</string>
+    <string name="restaurantClosedTextForClosed">zamknięte</string>
+    <string name="restaurantClosedOpeningTimes">Godziny otwarcia:</string>
+    <string name="updateErrorHeading">Aktualizacja wymagana</string>
+    <string name="updateErrorDescription">Wersja aplikacji jest nieaktualna. Zainstaluj aktualizację ze sklepu z aplikacjami.</string>
+    <string name="inactiveScreenHeading">Aplikacja nieaktywna</string>
+    <string name="inactiveScreenDescription">Już wkrótce!</string>
+</resources>

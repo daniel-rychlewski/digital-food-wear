@@ -1,0 +1,27 @@
+Imprint
+
+Informasi menurut § 5 DDG
+
+#globalAddress1
+#globalAddress2
+#globalAddress3
+
+Diwakili oleh:
+#globalAddress1
+
+Kontak:
+E-Mail: #globalEmailAddress
+
+Penafian tanggung jawab:
+
+Tanggung jawab atas konten
+
+Konten aplikasi telah dibuat dengan sangat hati-hati. Namun, kami tidak dapat memikul tanggung jawab apa pun atas keakuratan, kelengkapan, dan kemutakhiran konten. Sebagai penyedia layanan, kami bertanggung jawab atas konten kami sendiri di halaman ini sesuai dengan Bagian 7 (1) DDG (Undang-Undang Telemedia Jerman) dan undang-undang umum. Namun, menurut §§ 8 hingga 10 DDG, kami sebagai penyedia layanan tidak berkewajiban untuk memantau informasi pihak ketiga yang dikirimkan atau disimpan atau untuk menyelidiki keadaan yang menunjukkan aktivitas ilegal. Kewajiban untuk menghapus atau memblokir penggunaan informasi sesuai dengan undang-undang umum tetap tidak terpengaruh oleh hal ini. Namun, tanggung jawab dalam hal ini hanya mungkin sejak saat mengetahui pelanggaran tertentu. Segera setelah kami mengetahui pelanggaran tersebut, kami akan segera menghapus konten tersebut.
+
+Hak Cipta
+
+Konten dan karya yang dibuat oleh operator dalam aplikasi ini tunduk pada hukum hak cipta Jerman. Penggandaan, pemrosesan, pendistribusian, dan segala jenis eksploitasi di luar batas hukum hak cipta memerlukan persetujuan tertulis dari penulis atau kreator masing-masing. Selama konten dalam aplikasi ini tidak dibuat oleh operator, hak cipta pihak ketiga dihormati. Namun, jika Anda mengetahui adanya pelanggaran hak cipta, harap beri tahu kami. Jika kami mengetahui adanya pelanggaran, kami akan segera menghapus konten tersebut.
+
+Perlindungan data
+
+Kebijakan privasi dari ketentuan layanan berlaku.

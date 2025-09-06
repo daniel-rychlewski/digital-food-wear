@@ -1,0 +1,80 @@
+Ketentuan Layanan
+
+1. Definisi
+
+• Aplikasi: aplikasi seluler untuk jam tangan pintar Wear OS dan watchOS yang dapat digunakan untuk memesan makanan di restoran: #restaurantAddress1, #restaurantAddress2, #restaurantAddress3.
+• Penyedia: #globalAddress1, #globalAddress2, #globalAddress3.
+• Pelanggan: orang yang menggunakan aplikasi untuk memesan makanan.
+• Restoran: tempat usaha yang menyediakan makanan melalui aplikasi.
+• Layanan: penyediaan Aplikasi kepada Pelanggan untuk tujuan memesan makanan dari Restoran.
+
+2. Pesanan
+
+1. Pelanggan memesan dengan cara berikut:
+• Mengisi detail kontak (nama, nomor telepon, alamat email, jalan dan nomor rumah, kode pos, kota, petunjuk).
+• Pemilihan moda pengiriman yang diinginkan.
+• Menambahkan produk ke keranjang belanja.
+• Penerimaan ketentuan layanan.
+• Konfirmasi pesanan dengan tombol yang sesuai.
+
+2. Konfirmasi pesanan yang berisi detail Pelanggan, nomor pesanan, waktu pengiriman, informasi pembayaran, daftar produk yang dipesan, harga (termasuk biaya) dan moda pengiriman yang dipilih dikirim dalam bentuk tidak terenkripsi ke alamat email Pelanggan.
+
+3. Restoran dapat membatalkan pesanan dalam kasus-kasus berikut, antara lain:
+• Produk tidak tersedia.
+• Detail kontak Pelanggan salah.
+• Keraguan tentang keaslian pesanan.
+• Keadaan kahar.
+
+3. Harga dan pembayaran
+
+1. Semua harga dalam IDR dan sudah termasuk PPN.
+2. Metode pembayaran yang tersedia ditentukan oleh Restoran.
+3. Untuk penggunaan mata uang kripto sebagai opsi pembayaran, biaya gas tidak termasuk dalam total biaya.
+
+4. Kebijakan privasi
+
+Data pribadi
+1. Administrator data pribadi adalah #globalAddress1, #globalAddress2, #globalAddress3.
+2. Data pribadi Pelanggan hanya akan diproses untuk tujuan pemrosesan pesanan, yaitu untuk:
+• Persiapan pesanan
+• Mengirim konfirmasi pesanan ke alamat email Pelanggan
+• Pengiriman pesanan ke Pelanggan
+3. Data pribadi Pelanggan hanya akan diteruskan ke Restoran tempat Pelanggan memesan. Restoran menerima data pribadi Pelanggan untuk tujuan pemrosesan pesanan.
+4. Data pribadi Pelanggan akan disimpan selama periode yang diperlukan untuk memproses pesanan. Salinan konfirmasi pesanan dengan alamat email Pelanggan dapat disimpan di folder "Terkirim" milik pemasok. 5. Pelanggan berhak untuk:
+• Mengakses data pribadinya
+• Memperbaiki data pribadinya
+• Menghapus data pribadinya
+• Membatasi pemrosesan data pribadinya
+• Menolak pemrosesan data pribadinya
+• Mentransfer data pribadinya
+6. Jika Anda memiliki pertanyaan atau masalah terkait pemrosesan data pribadi Anda, silakan hubungi Penyedia: #globalEmailAddress
+7. Kebijakan privasi pihak ketiga
+• Aplikasi jam tangan pintar terintegrasi dengan perangkat pihak ketiga, yang memiliki kebijakan privasi masing-masing. Dengan menggunakan aplikasi jam tangan pintar, Anda juga menyetujui kebijakan privasi mereka. Kebijakan privasi tersebut adalah sebagai berikut:
+• Pembayaran online melalui kartu kredit tunduk pada kebijakan privasi pemroses pembayaran Stripe: https://stripe.com/privacy
+• Pemeriksaan transaksi kripto tunduk pada kebijakan privasi Alchemy: https://legal.alchemy.com/#contract-sblyf8eub
+• Pengambilan nilai tukar mata uang tunduk pada kebijakan privasi ExchangeRate-API: https://www.exchangerate-api.com/terms
+
+5. Tanggung Jawab
+1. Penyedia tidak bertanggung jawab atas konten penawaran dan informasi tentang restoran yang disajikan dalam aplikasi.
+2. Restoran bertanggung jawab atas kualitas dan keamanan produk yang ditawarkan.
+3. Jika terjadi alergi atau intoleransi makanan, Pelanggan wajib memberi tahu Restoran tentang kemungkinan alergen.
+
+6. Kontrak
+1. Kontrak pembelian dengan Restoran diakhiri dengan pesanan Pelanggan.
+2. Isi kontrak ditentukan oleh:
+• Deskripsi produk. • Syarat dan ketentuan yang tercantum dalam lembar data produk.
+• Informasi yang terlihat pada halaman pesanan saat melakukan pemesanan.
+3. Mengingat sifat penawaran yang mudah rusak, Pelanggan tidak memiliki hak untuk membatalkan.
+4. Pembatalan pesanan oleh Pelanggan hanya dimungkinkan jika Restoran secara tegas mengizinkannya.
+
+7. Ketentuan akhir
+1. Kontrak untuk penyediaan Layanan dibuat untuk jangka waktu tertentu, yaitu sejak saat pemesanan hingga pelaksanaannya.
+2. Tempat yurisdiksi untuk perselisihan yang timbul dari kontrak ini adalah pengadilan yang berwenang untuk kantor terdaftar Penyedia.
+3. Ketentuan layanan tersedia di aplikasi dan di situs web Penyedia.
+
+Informasi tambahan:
+• Aplikasi dapat menggunakan mikrofon untuk input suara dengan Google Speech to Text. Data ini digunakan untuk mengisi formulir pesanan dan diproses sesuai dengan kebijakan privasi Google (https://policies.google.com/privacy?hl=en). • Aplikasi di Wear OS dapat mengunduh foto hidangan dari cloud, menggantikan foto standar.
+• Kedua versi aplikasi menawarkan fungsi untuk mengimpor informasi kontak dari buku telepon berdasarkan nomor telepon.
+• Saat memesan produk alkohol, Pelanggan mengonfirmasi bahwa mereka telah mencapai usia minimum yang disyaratkan.
+• Ketersediaan pengiriman terbatas pada kode pos dan waktu yang ditentukan oleh Restoran.
+• Jika Anda memiliki pertanyaan atau masalah, silakan hubungi pemasok.
