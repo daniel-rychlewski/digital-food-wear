@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="internetErrorHeading">Kein Internet</string>
+    <string name="internetErrorDescription">Bitte verbinden Sie das Gerät mit dem Internet, um die App zu nutzen.</string>
+    <string name="loginErrorHeading">Anmeldung fehlgeschlagen</string>
+    <string name="loginErrorDescription">Die Anmeldung ist fehlgeschlagen. Bitte prüfen Sie Ihre Internetverbindung oder kontaktieren Sie den Herausgeber der App.</string>
+    <string name="restaurantClosedHeading">Restaurant geschlossen</string>
+    <string name="restaurantClosedDaysOfWeek">Montag,Dienstag,Mittwoch,Donnerstag,Freitag,Samstag,Sonntag</string>
+    <string name="restaurantClosedTextForClosed">geschlossen</string>
+    <string name="restaurantClosedOpeningTimes">Öffnungszeiten:</string>
+    <string name="updateErrorHeading">Update erforderlich</string>
+    <string name="updateErrorDescription">Ihre App-Version ist veraltet. Bitte installieren Sie die Aktualisierung aus dem App Store.</string>
+    <string name="inactiveScreenHeading">App inaktiv</string>
+    <string name="inactiveScreenDescription">Bald verfügbar!</string>
+</resources>

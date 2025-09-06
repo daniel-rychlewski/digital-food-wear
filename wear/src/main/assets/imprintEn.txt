@@ -1,0 +1,27 @@
+Imprint
+
+Information according to § 5 DDG
+
+#globalAddress1
+#globalAddress2
+#globalAddress3
+
+Represented by:
+#globalAddress1
+
+Contact:
+E-Mail: #globalEmailAddress
+
+Disclaimer of liability:
+
+Liability for content
+
+The contents of the app have been created with the greatest care. However, we cannot assume any liability for the accuracy, completeness and up-to-dateness of the content. As a service provider, we are responsible for our own content on these pages in accordance with Section 7 (1) DDG (German Telemedia Act) and general legislation. According to §§ 8 to 10 DDG, however, we as a service provider are not obliged to monitor transmitted or stored third-party information or to investigate circumstances that indicate illegal activity. Obligations to remove or block the use of information in accordance with general legislation remain unaffected by this. However, liability in this respect is only possible from the time of knowledge of a specific infringement. As soon as we become aware of such infringements, we will remove this content immediately.
+
+Copyright
+
+The content and works created by the operator in this app are subject to German copyright law. Duplication, processing, distribution and any kind of exploitation outside the limits of copyright law require the written consent of the respective author or creator. Insofar as the content in this app was not created by the operator, the copyrights of third parties are respected. Should you nevertheless become aware of a copyright infringement, please inform us accordingly. If we become aware of any infringements, we will remove such content immediately.
+
+Data protection
+
+The privacy policy from the terms of service applies.

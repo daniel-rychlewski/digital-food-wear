@@ -1,0 +1,98 @@
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+    id 'com.google.gms.google-services'
+    id 'org.jetbrains.kotlin.android'
+    id 'org.jetbrains.kotlin.plugin.compose' version "$kotlin_version"
+}
+
+android {
+    compileSdk 36
+
+    defaultConfig {
+        applicationId "business.digitalfood.watch.example"
+        minSdk 25 // IME needs SDK 23 (Android 6): https://developer.android.com/training/wearables/user-input/wear-ime, androidx.wear.compose:compose-material:1.0.2 needs SDK 25
+        targetSdk 34
+        versionCode 19
+        versionName "1.0.1"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles("proguard-rules.pro")
+        }
+    }
+
+    android.buildFeatures.buildConfig true
+    flavorDimensions = ["default"]
+
+    productFlavors {
+        internal {}
+        prod {}
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+        freeCompilerArgs += "-Xopt-in=kotlin.RequiresOptIn"
+    }
+    buildFeatures {
+        compose true
+    }
+    composeOptions {
+        kotlinCompilerExtensionVersion "$compose_compiler_version"
+    }
+    packagingOptions {
+        resources {
+            excludes += '/META-INF/{AL2.0,LGPL2.1}'
+        }
+    }
+    namespace 'business.digitalfood.watch'
+
+    applicationVariants.configureEach { variant ->
+        variant.mergeAssetsProvider.configure {
+            doLast {
+                delete(fileTree(dir: outputDir, includes: ['**/*.jks', '**/*.pepk']))
+            }
+        }
+    }
+}
+
+dependencies {
+    implementation "androidx.activity:activity-compose:$activity_compose_version"
+    implementation "androidx.compose.ui:ui-tooling-preview:$compose_version"
+    implementation "androidx.compose.foundation:foundation:$compose_foundation_version"
+    implementation "androidx.compose.runtime:runtime-livedata:$compose_version"
+    implementation "androidx.compose.material:material-icons-extended:$compose_material_version"
+    implementation "androidx.compose.material3:material3:$material3_version"
+    implementation "androidx.preference:preference-ktx:$preference_version"
+
+    implementation "androidx.wear.compose:compose-material:$wear_compose_version"
+    implementation "androidx.wear.compose:compose-foundation:$wear_compose_version"
+    implementation "androidx.wear:wear:$wear_version"
+    implementation "com.google.accompanist:accompanist-swiperefresh:$swiperefresh_version"
+    implementation "androidx.security:security-crypto-ktx:$crypto_version"
+    implementation "androidx.core:core-splashscreen:$splashscreen_version"
+
+    implementation "com.stripe:stripe-java:$stripe_version"
+    implementation "org.mozilla.geckoview:geckoview:$geckoview_version"
+
+    debugImplementation "androidx.compose.ui:ui-tooling:$compose_version"
+
+    implementation platform("com.google.firebase:firebase-bom:$firebase_bom_version")
+    implementation 'com.google.firebase:firebase-firestore-ktx'
+    implementation 'com.google.firebase:firebase-auth-ktx'
+    implementation 'com.google.firebase:firebase-storage-ktx'
+
+    implementation "com.lightspark:compose-qr-code:$qrcode_version"
+    implementation "org.jsoup:jsoup:$jsoup_version"
+}
+
+configurations.configureEach {
+    // to remove Google Play deprecation warning for com.google.android.gms:play-services-safetynet
+    exclude group: 'com.google.android.gms', module: 'play-services-safetynet'
+}

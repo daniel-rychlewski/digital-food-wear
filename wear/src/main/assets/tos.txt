@@ -1,0 +1,83 @@
+Allgemeine Geschäftsbedingungen
+
+1. Definitionen
+
+•	App: Mobile App für Wear OS- und watchOS-Smartwatches, mit der man Essen in Restaurants bestellen kann: #restaurantAddress1, #restaurantAddress2, #restaurantAddress3.
+•	Anbieter: #globalAddress1, #globalAddress2, #globalAddress3.
+•	Kunde: die Person, die die App nutzt, um Essen zu bestellen.
+•	Restaurant: die Einrichtung, die das Essensangebot über die Anwendung zur Verfügung stellt.
+•	Dienstleistung: die Bereitstellung der Anwendung für den Kunden zum Zweck der Bestellung von Essen bei einem Restaurant.
+
+2. Bestellung
+
+1.	Der Kunde gibt eine Bestellung im folgenden Prozess auf:
+•	Ausfüllen der Kontaktangaben (Name, Telefonnummer, E-Mail-Adresse, Straße und Hausnummer, Postleitzahl, Ort, Anweisungen).
+•	Wahl des gewünschten Liefermodus.
+•	Wahl der Produkte in den Warenkorb.
+•	Akzeptieren der Allgemeinen Geschäftsbedingungen.
+•	Bestätigung der Bestellung mit dem entsprechenden Button.
+
+2.	Eine Auftragsbestätigung, die die Daten des Kunden, die Auftragsnummer, die Lieferzeit, die Zahlungsinformationen, die Liste der bestellten Produkte, den Preis (einschließlich der Gebühren) und die gewählte Versandart enthält, wird in unverschlüsselter Form an die E-Mail-Adresse des Kunden gesendet.
+
+3.  Das Restaurant kann eine Bestellung stornieren, unter anderem in den folgenden Fällen:
+•	Nichtverfügbarkeit des Produkts.
+•	Falsche Kontaktangaben des Kunden.
+•	Zweifel an der Echtheit der Bestellung.
+•	Höhere Gewalt.
+
+3. Preise und Zahlung
+
+1.	Alle Preise sind in Euro angegeben und enthalten die Mehrwertsteuer.
+2.	Die verfügbaren Zahlungsarten werden durch das Restaurant festgelegt.
+3.	Bei Verwendung von Kryptowährungen als Zahlungsoption sind die Gasgebühren nicht im Gesamtbetrag enthalten.
+
+4. Datenschutzerklärung
+
+Personenbezogene Daten
+1.	Der Verwalter der personenbezogenen Daten ist #globalAddress1, #globalAddress2, #globalAddress3.
+2.	Die personenbezogenen Daten des Kunden werden nur zum Zweck der Auftragsabwicklung verarbeitet, d.h. zur:
+•	Vorbereitung der Bestellung
+•	Zusendung einer Auftragsbestätigung an die E-Mail-Adresse des Kunden
+•	Auslieferung der Bestellung an den Kunden
+3.	Die persönlichen Daten des Kunden werden nur an das Restaurant weitergegeben, bei dem der Kunde die Bestellung aufgegeben hat. Das Restaurant erhält die persönlichen Daten des Kunden zum Zwecke der Bearbeitung der Bestellung.
+4.	Die persönlichen Daten des Kunden werden für den Zeitraum aufbewahrt, der für die Bearbeitung der Bestellung erforderlich ist. Eine Kopie der Auftragsbestätigung mit der E-Mail-Adresse des Kunden darf im Ordner "Gesendet" des Lieferanten gespeichert werden.
+5.	Der Kunde hat das Recht auf:
+•	Zugang zu seinen persönlichen Daten
+•	Berichtigung seiner persönlichen Daten
+•	Löschung seiner personenbezogenen Daten
+•	Einschränkung der Verarbeitung seiner personenbezogenen Daten
+•	Einspruch gegen die Verarbeitung seiner personenbezogenen Daten
+•	Übermittlung seiner personenbezogenen Daten
+6.	Im Fall von Fragen oder Bedenken hinsichtlich der Verarbeitung Ihrer personenbezogenen Daten wenden Sie sich bitte an den Anbieter: #globalEmailAddress
+7.	Datenschutzrichtlinien Dritter
+• Die Smartwatch-Apps sind mit Tools von Drittanbietern integriert, die über eigene Datenschutzrichtlinien verfügen. Durch die Nutzung der Smartwatch-Apps stimmen Sie auch deren Datenschutzrichtlinien zu. Die Datenschutzrichtlinien lauten wie folgt:
+• Online-Zahlungen per Kreditkarte unterliegen den Datenschutzrichtlinien des Zahlungsabwicklers Stripe: https://stripe.com/privacy
+• Die Überprüfung von Krypto-Transaktionen unterliegt den Datenschutzrichtlinien von Alchemy: https://legal.alchemy.com/#contract-sblyf8eub
+• Das Abrufen von Wechselkursen unterliegt den Datenschutzrichtlinien der ExchangeRate-API: https://www.exchangerate-api.com/terms
+
+5. Haftung
+1.	Der Anbieter ist nicht verantwortlich für den Inhalt des Angebots und die in der Anwendung dargestellten Informationen über die Restaurants.
+2.	Das Restaurant ist für die Qualität und Sicherheit der angebotenen Produkte verantwortlich.
+3.	Im Falle von Lebensmittelallergien oder -unverträglichkeiten ist der Kunde verpflichtet, sich beim Restaurant über mögliche Allergene zu informieren.
+
+6. Vertrag
+1.	Mit der Bestellung des Kunden kommt ein Kaufvertrag mit der Gaststätte zustande.
+2.	Der Inhalt des Vertrages wird bestimmt durch:
+•	Die Produktbezeichnung.
+•	Die im Produktdatenblatt aufgeführten Bedingungen und Konditionen.
+•	Die Informationen, die auf der Bestellseite bei der Bestellung sichtbar sind.
+3.	Angesichts der Verderblichkeit des Angebots steht dem Kunden kein Widerrufsrecht zu.
+4.	Eine Stornierung der Bestellung durch den Kunden ist nur möglich, wenn das Restaurant dies ausdrücklich zulässt.
+
+7. Schlussbestimmungen
+1.	Der Vertrag über die Erbringung der Dienstleistung wird auf bestimmte Zeit geschlossen, d.h. vom Zeitpunkt der Bestellung bis zu deren Ausführung.
+2.	Gerichtsstand für Streitigkeiten aus diesem Vertrag ist das für den Sitz des Anbieters zuständige Gericht.
+3.	Die Allgemeinen Geschäftsbedingungen sind in der App und auf der Website des Anbieters verfügbar.
+
+Zusätzliche Informationen:
+•	Die App kann ein Mikrofon für die Spracheingabe mit Google Speech to Text verwenden. Diese Daten werden zum Ausfüllen des Bestellformulars verwendet und in Übereinstimmung mit den Datenschutzbestimmungen von Google verarbeitet (https://policies.google.com/privacy?hl=de).
+•	Die App auf Wear OS kann Fotos von Gerichten aus der Cloud herunterladen und so die Standardfotos ersetzen.
+•	Beide Versionen der App bieten eine Funktion zum Importieren von Kontaktinformationen aus dem Telefonbuch auf der Grundlage der Telefonnummer.
+•	Bei der Bestellung von Alkoholprodukten bestätigt der Kunde, dass er das erforderliche Mindestalter hat.
+•	Die Lieferbarkeit ist auf die vom Restaurant angegebenen Postleitzahlen und Zeiten beschränkt.
+•	Wenn Sie Fragen oder Bedenken haben, wenden Sie sich bitte an den Lieferanten.
