@@ -2,6 +2,8 @@
 
 This is the smartwatch food ordering app for Wear OS, built in Kotlin with Jetpack Compose, with API integrations with Stripe (for online payment) and ExchangeRate-API + Alchemy (for crypto payment).
 
+[![Wear OS app](https://img.youtube.com/vi/Xufi30lpRNw/0.jpg)](https://youtu.be/Xufi30lpRNw)
+
 ## User flow
 
 1. The user installs the smartwatch app for their favorite restaurant from the Google Play Store.
