@@ -16,6 +16,10 @@ This is the smartwatch food ordering app for Wear OS, built in Kotlin with Jetpa
    * c. (if crypto payment is selected) The user can choose between USDC/USDT, Solana/Polygon and Native/Metamask/Trust to generate the QR code for the payment. The user scans the QR code on their smartphone to finalize with their preferred wallet the crypto payment to the restaurant's wallet.
 7. The order confirmation method enabled by the restaurant (email or WhatsApp) is used to confirm the order.
 
+## Multilanguage
+
+The app can be displayed in a local language + English. Which one is used depends on the locale setting of the smartwatch: if it does not match the local language of the app, English is used.
+
 ## Microphone input
 
 To simplify the entry of contact data, the app supports microphone input. The flow looks as follows:
