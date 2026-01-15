@@ -75,3 +75,9 @@ To simplify the entry of contact data, the app supports microphone input. The fl
 - Build variants: There are four build variants: internalDebug, internalRelease, prodDebug, prodRelease. For the Android Studio emulator, work with internalDebug and prodDebug. For releasing the app, use internalRelease (for Google internal testing) and prodRelease (for the productive app). Difference between internal and prod: the commission.cumulatedOrdersPrice field in Firebase will only be updated for prod. That way, the invoices generated from that to the clients due to commission-based pricing will reflect the correct amount, because their testing does not modify the field.
 - Include your food images in drawable-xxxhdpi and generate your app icon for the mipmap folders.
 - Go to "Build -> Generate Signed App Bundle or APK", generate your keystore if necessary and create your .aab app bundle, which you upload to the Google Play Store.
+
+### Google Play listing
+
+This is how a Google Play listing for the app can look like:
+
+![Google Play listing](marketing/googlePlayListing.png)
