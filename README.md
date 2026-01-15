@@ -18,7 +18,8 @@ This is the smartwatch food ordering app for Wear OS, built in Kotlin with Jetpa
 
 ## Microphone input
 
-To simplify the entry of contact data, the app supports microphone input. Please find below the workflow.
+To simplify the entry of contact data, the app supports microphone input. The flow looks as follows:
+
 ![Microphone input](marketing/microphoneInput.png)
 
 ## Card payment
